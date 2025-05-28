@@ -2,8 +2,8 @@
 
 **Senior Full Stack Developer | .NET & Angular/React**  
 Lavras, Minas Gerais, Brazil  
-📧 dev.viniciusbarbosa@gmail.com | 📱 +55 35 99235-2890  
-🔗 [GitHub](https://github.com/viniciusbarbosa12) | [LinkedIn](https://www.linkedin.com/in/vinicius-barbosa-7925a9ba) | [WhatsApp](https://wa.me/5535992352890)
+📧 dev.viniciusbarbosa@gmail.com |
+🔗 [GitHub](https://github.com/viniciusbarbosa12) | [LinkedIn](https://www.linkedin.com/in/vinicius-barbosa-7925a9ba) 
 
 ---
 
